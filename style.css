@@ -270,6 +270,10 @@ nav a:focus {
 }
 
 /* about-me */
+.aboutme {
+  margin-bottom: 2em;
+}
+
 .aboutme-image {
   width: 100%;
   max-height: 300px;
